@@ -3,6 +3,7 @@
 - Chanampa Macarena
 - Nahuel Ciolfi - 1B
 - Juan Arrúa
+- Agüero Lucia
 
 
 
